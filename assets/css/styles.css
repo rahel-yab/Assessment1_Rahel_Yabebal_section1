@@ -1,6 +1,6 @@
 #our {
   text-align: center;
-  background-color: rgb(195, 233, 195);
+  background-color: rgba(195, 233, 195, 0.5);
   margin: 0 auto;
   padding: 16px;
   margin-top: 0px;
@@ -10,18 +10,17 @@ ul {
   list-style-type: none;
   text-align: center;
   list-style-type: none;
-  color: rgb(133, 185, 133);
 }
 li {
   display: inline;
   margin-right: 30px;
 }
 a {
-  color: rgb(72, 120, 72);
+  color: rgb(99, 188, 99);
   text-decoration: none;
 }
 body {
-  background-color: #e1dede;
+  background-color: #f4efef;
 }
 .one {
   display: grid;
@@ -45,6 +44,9 @@ div img {
   text-align: center;
   padding-top: 17px;
 }
+.dollar {
+  color: rgb(99, 188, 99);
+}
 footer {
   background-color: rgb(10, 100, 10);
   padding: 9px;
@@ -52,4 +54,5 @@ footer {
 }
 footer p {
   text-align: center;
+  color: white;
 }
