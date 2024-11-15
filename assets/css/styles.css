@@ -5,7 +5,7 @@
 
 h1 {
   text-align: center;
-  background-color: rgba(195, 233, 195, 0.5);
+  background-color: #d9eed9;
   padding: 1em;
   margin-bottom: 1em;
 }
@@ -21,7 +21,7 @@ li {
 }
 
 a {
-  color: rgb(99, 188, 99);
+  color: #4caf50;
   text-decoration: none;
 }
 
@@ -85,9 +85,9 @@ main img {
 }
 
 footer {
-  background-color: rgb(10, 100, 10);
+  background-color: #124314;
   padding: 0.5em;
-  margin-top: 2em;
+  margin-top: 2.5em;
 }
 
 footer p {
